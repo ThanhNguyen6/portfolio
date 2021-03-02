@@ -99,6 +99,12 @@
         "category":"Our group of 4 built a online learning platform that help student to manage tasks using React. It works with Google Calendar API.",
         "image":"OLT.jpg",
         "url":"https://ucb-info-frontend-webarch.github.io/group-project-online-learning-tool/?fbclid=IwAR0RbiyYJB_gHyKkjCkR3e6FA6QtF-g9NjZ4j5IYs6GuokQYlHHrSNqGQRY"
+      },
+      {
+        "title":"Share Wallet",
+        "category":"This is my first smart contract. An on-chain wallet smart contract, which can store funds and let users withdraw, give allowance to other, specific user-addresses. ",
+        "image":"SmartContract-Wallet.jpg",
+        "url":"https://github.com/ThanhNguyen6/Shared-Wallet"
       }
     ]
   },
