@@ -89,6 +89,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Face Recognition",
+        "category":"A responsive app let user register, sign in, then upload an image’s url to detect face. The app has the frontend using react, image recognition API, backend using Node and express. The app is deployed on Heroku.",
+        "image":"face-recog.jpg",
+        "url":"https://faces-recog.herokuapp.com"
+      },
+      {
         "title":"Build Your Own World",
         "category":"I and my partner Jerry Lai wrote a game for 2 players with random world using Java and StdDraw.",
         "image":"BYOW.png",
